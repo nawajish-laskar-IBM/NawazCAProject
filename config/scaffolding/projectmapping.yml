@@ -1,0 +1,7 @@
+version: "1.0"
+projectName: NawazCAProject
+runtimes:
+- runtimeAlias: PublicERT
+  assets:
+  - name: RakeshCA
+    type: DAF
